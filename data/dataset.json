@@ -1,0 +1,14 @@
+[
+  {
+    "instruction": "What is LoRA?",
+    "response": "LoRA is a parameter efficient fine tuning technique that trains a small number of additional parameters instead of updating the entire model."
+  },
+  {
+    "instruction": "What is QLoRA?",
+    "response": "QLoRA combines LoRA with 4-bit quantization to reduce memory usage while maintaining performance."
+  },
+  {
+    "instruction": "What is PEFT?",
+    "response": "PEFT stands for Parameter Efficient Fine Tuning and enables efficient adaptation of large language models."
+  }
+]
